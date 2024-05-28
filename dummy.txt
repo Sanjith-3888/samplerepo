@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am sanjith from india
+=======
+This just for practicing
+>>>>>>> 04491508b99d2d707411ca6ec0a42528b5c4bec5
