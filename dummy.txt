@@ -6,3 +6,5 @@ yeh i it's working now
 butt still how 
 does it work
 just push it
+helllo world is the basics of python
+print("Hello World")
